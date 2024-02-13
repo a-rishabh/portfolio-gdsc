@@ -1,13 +1,3 @@
-<!-- # Rishabh Agarwal -->
-<!-- <img src ="images/my_pic.JPG" height="300" width="200"><br/> -->
-<div style="display: flex; flex-direction: row; gap: 10px;">
-    <!-- <img src ="images/my_pic.JPG" height="300" width="200"> -->
-    <div style="display: flex; flex-direction: column">
-        <!-- <p style="font-weight: bold; font-size: 22px; margin: 0;">About</p> -->
-        <p style="color: #ababab; margin: 0;">Aspiring software engineer looking for enhanced real-world experience. Has experience with data-oriented programming, computational architecture, and machine learning and is eager to learn more through an internship</p>
-        <!-- <p style="color: #ababab; margin: 0;">2020-2024</p> -->
-    </div>
-</div>
 
 ## Work Experience
 ### Software Engineering Intern - KFI Engineers
