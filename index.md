@@ -59,7 +59,7 @@ Implemented the OpenVINO™ Toolkit, showcasing the ability to elucidate the too
     <div style="display: flex; flex-direction: column">
         <p style="font-weight: bold; font-size: 22px; margin: 0;">University of Minnesota</p>
         <p style="color: #ababab; margin: 0;">Bachelors of Science (B.S.) - Computer Science</p>
-        <p style="color: #ababab; margin: 0;">GPA: 3.89</p>
+        <p style="color: #ababab; margin: 0;">GPA: 3.96</p>
         <p style="color: #ababab; margin: 0;">2021-2024</p>
     </div>
 </div>
