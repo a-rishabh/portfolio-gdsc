@@ -1,4 +1,4 @@
-# Rishabh Agarwal
+<!-- # Rishabh Agarwal -->
 <!-- <img src ="images/my_pic.JPG" height="300" width="200"><br/> -->
 <div style="display: flex; flex-direction: row; gap: 10px;">
     <!-- <img src ="images/my_pic.JPG" height="300" width="200"> -->
